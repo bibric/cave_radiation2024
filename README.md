@@ -22,4 +22,7 @@ The core script: **`geiger.ino`**
 - Counts radiation events per time interval
 - Saves data to `DATA3.TXT` on SD card
 
+### Build plot:
+- The use next notebook: **`histor.ipynb`**
+
 ---
